@@ -1,17 +1,7 @@
 # injuxtice.github.io
 
----
-title: "My website"
-output: 
-  html_document:
-    toc: FALSE
----
-
 ## About
+My name is **Injuxtice**, or Luke. I am 24 from the United Kingdom working as SOC Analyst for [KHIPU Networks](https://khipu-networks.com/). I am a keen learner and enjoy learning new things. I am currently (re-)learning Python.
 
-injuxtice.github.io is a personal website and blog.
-
-## Contact
-
-You can contact me at 
-
+## Projects
+- [Injuxtice.github.io](https://injuxtice.github.io/) - This website
