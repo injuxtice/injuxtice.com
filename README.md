@@ -5,3 +5,8 @@ My name is **Injuxtice**, or Luke. I am 24 from the United Kingdom working as SO
 
 ## Projects
 - [Injuxtice.github.io](https://injuxtice.github.io/) - This website
+
+## Contact
+- [Twitter](https://twitter.com/0xInjuxtice)
+- [LinkedIn](https://www.linkedin.com/in/luke-bullimore)
+- [Email](mailto:injuxtice@pm.me)
