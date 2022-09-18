@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Python3 :)**
 
-- 👯 I’m looking to collaborate on **Python projects related to Palo Alto Networks!**
+- 🎉 I’m looking to collaborate on **Python projects related to Palo Alto Networks!**
 
 - <a href="https://github.com/injuxtice">💻 My Github profile </a>
 
