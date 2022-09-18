@@ -3,7 +3,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=injuxtice" alt="injuxtice" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/0xinjuxtice" target="blank"><img src="https://img.shields.io/twitter/follow/0xinjuxtice?logo=twitter&style=for-the-badge" alt="0xinjuxtice" /></a> </p>
 
 - 🔭 I’m currently work at **SOC Analyst for KHIPU Networks**
 
@@ -13,7 +12,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/0xinjuxtice" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="0xinjuxtice" height="30" width="40" /></a>
+<p align="left"> <a href="https://twitter.com/0xinjuxtice" target="blank"><img src="https://img.shields.io/twitter/follow/0xinjuxtice?logo=twitter&style=for-the-badge" alt="0xinjuxtice" /></a> </p>
 <a href="https://linkedin.com/in/luke-bullimore" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luke-bullimore" height="30" width="40" /></a>
 </p>
 
