@@ -4,13 +4,13 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=injuxtice" alt="injuxtice" /></a> </p>
 
 
-- 🔭 I’m currently work at **SOC Analyst for KHIPU Networks**
+- 🔭 I’m currently working as a **Security Solutions Architect / SOC Analyst for KHIPU Networks**
 
 - 🌱 I’m currently learning **Python3 :)**
 
 - 👯 I’m looking to collaborate on **Python projects related to Palo Alto Networks!**
 
-- 💻 My Github profile https://github.com/injuxtice
+- <a href="https://github.com/injuxtice">💻 My Github profile </a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
