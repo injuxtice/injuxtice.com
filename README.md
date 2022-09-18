@@ -10,6 +10,8 @@
 
 - 👯 I’m looking to collaborate on **Python projects related to Palo Alto Networks!**
 
+- 💻 My Github profile https://github.com/injuxtice
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <p align="left"> <a href="https://twitter.com/0xinjuxtice" target="blank"><img src="https://img.shields.io/twitter/follow/0xinjuxtice?logo=twitter&style=for-the-badge" alt="0xinjuxtice" /></a> </p>
