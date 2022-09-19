@@ -11,6 +11,8 @@
 - 🎉 I’m looking to collaborate on **Python projects related to Palo Alto Networks!**
 
 - <a href="https://github.com/injuxtice">💻 My Github profile </a>
+  
+- 🎹 I'm an avid music lover, check out some of my <a href="https://open.spotify.com/user/mlinku?si=71a124fb504a46a4"> playlists</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
