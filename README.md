@@ -37,5 +37,3 @@ I'm currently working as a **Security Solutions Architect / SOC Analyst** at **K
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" alt="Luke's LinkedIn Profile" />
 
 ---
-  </a>
-</p>
